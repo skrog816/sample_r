@@ -1,0 +1,17 @@
+========================================================================= 
+Log Path: /cloud/project/log/generate_ds.log 
+Program Path: /cloud/project/generate_ds.R 
+Working Directory: /cloud/project 
+User Name: r3871861 
+R Version: 4.6.1 (2026-06-24) 
+Machine: application-17572676-deployment-31448342-pdpr6 x86_64 
+Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: haven_2.5.5 logr_1.3.9 common_1.1.5 xportr_0.5.0 labelled_2.16.0 dplyr_1.2.1 pharmaverseraw_0.1.1 sdtm.oak_0.2.0 pharmaverse_0.0.2 
+Log Start Time: 2026-07-03 13:09:34.75602 
+========================================================================= 
+
+========================================================================= 
+Log End Time: 2026-07-03 13:09:35.822125 
+Log Elapsed Time: 0 00:00:01 
+========================================================================= 
