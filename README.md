@@ -6,9 +6,9 @@ The purpose of this repository to to provide sample code to create SDTM, ADaM, T
 
 # Structure
 The repository is organized into 4 folders to reflect each question. 
-  Question 1: Generate the SDTM DS
-  Question 2: Generate the ADaM ADSL
-  Question 3: Genetate an AE Table, and two figures 
-  Question 4: Generate an LLM
+* Question 1: Generate the SDTM DS
+* Question 2: Generate the ADaM ADSL
+* Question 3: Genetate an AE Table, and two figures 
+* Question 4: Generate an LLM
 
   Each folder titled after the above question includes a variety of deliverables including the code, log, and output(s). 
