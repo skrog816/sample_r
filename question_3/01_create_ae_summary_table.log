@@ -1,0 +1,17 @@
+========================================================================= 
+Log Path: /cloud/project/log/01_create_ae_summary_table.log 
+Program Path: /cloud/project/01_create_ae_summary_table.R 
+Working Directory: /cloud/project 
+User Name: r3871861 
+R Version: 4.6.1 (2026-06-24) 
+Machine: application-17576809-deployment-31458099-55w6k x86_64 
+Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: logr_1.3.9 common_1.1.5 officer_0.7.5 flextable_0.9.12 gt_1.3.0 pharmaverseadam_1.3.0 janitor_2.2.1 ggplot2_4.0.3 gtsummary_2.5.1 dplyr_1.2.1 
+Log Start Time: 2026-07-03 16:38:08.17325 
+========================================================================= 
+
+========================================================================= 
+Log End Time: 2026-07-03 16:38:13.230136 
+Log Elapsed Time: 0 00:00:05 
+========================================================================= 
