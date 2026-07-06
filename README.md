@@ -37,4 +37,6 @@ At the end of all of these questions, I reviewed the given request and then spen
 
 ## Question 4
 
-:)
+For question 4, I do not possess an API key, so I have provided example code on how I would attempt to tackle this request. My first step is to research the type of question by searching how to create an agent that uses Pandas. I came up with the options of PandasAI and LangChain. Based on some further reading, I decided to prompt Claude to use LangChain as this is the most straight forward option. For the sample code, I first ran a generic query in Claude to understand the structure of the program and to see the type of response I would get so that I could check consistency. I then checked that against a google search of the same question to see if I got a similar response from the AI response there. 
+
+From there, I ran a second query more specialzed to the question of using ADAE. The agent gave clear instructions of how the program should be adapted to the actual dataset being used, which I then tried to implement in the provided response. 
