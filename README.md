@@ -25,3 +25,16 @@ After generating the SDTM, I had a good idea of where to start. I began by using
 One challenge I noted during this question is that to generate the age grouping variables, the document said "Analysis Age" and then referred to DM.AGE. I defaulted to use AAGE in this case, and derived this variable based on the CDISC guidance. 
 
 ## Question 3: Generate TLGs
+This question had many layers to it. I began by following the given example and hyperlinked pharmaverse examples (and related documentation) to develop the table. This task was fairly straight forward once I found a similar output in the examples, and I was able to easily adapt the code to produce the desired output. 
+
+For the bar chart, I had a similar experience. Once I was able to find an example of a bar chart, I spent time reading about the possible inputs for the function. I chose to play around with these options and was able to quickly reproduce the given chart. 
+
+For the final graph, I spent quite a bit of time looking through similar examples of plots relating frequency, incidence rate, or both. I struggled to figure out how to graph this horizonatally, and eventually worked using Claude to work through my challenges. I was able to easily prompt Claude and then comfirm that the given code produced an accurate result by referring to the sources I had identified earlier for calculating frequency and IR in R. This confirmed that I was on the right path, and sped up my working process where I was stuck. 
+
+## Completing the R Component
+
+At the end of all of these questions, I reviewed the given request and then spent time working on the code structure to clean up my work and ensure the formatting was consistent. I used a similar starting structure for each program to title the program and identify it's purpose. I then used the suggested style guide and package to clean up any spacing issues. 
+
+## Question 4
+
+:)
